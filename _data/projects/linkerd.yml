@@ -1,0 +1,23 @@
+---
+name: Linkerd
+desc: An ultralight service mesh for Kubernetes.
+site: https://linkerd.io/
+tags:
+- oss
+- web
+- cloud-native
+- go
+- javascript
+- kubernetes
+- rust
+- cncf
+- containers
+- docker
+- reactjs
+upforgrabs:
+  name: good first issue
+  link: https://github.com/linkerd/linkerd2/labels/good%20first%20issue
+stats:
+  issue-count: 17
+  last-updated: '2023-06-29T18:30:39Z'
+  fork-count: 1198
